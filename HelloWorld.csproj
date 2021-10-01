@@ -1,6 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
+        <PackageId>ChrisMcKenzieIsCool</PackageId>
+        <Version>1</Version>
+        <Authors>Chris</Authors>
         <OutputType>Exe</OutputType>
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
